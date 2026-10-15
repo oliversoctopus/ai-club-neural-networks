@@ -1,4 +1,4 @@
-Commands should be available already, but just in case:
+Libraries should be available already (preinstalled), but just in case:
 
 pip install numpy pandas matplotlib
 
